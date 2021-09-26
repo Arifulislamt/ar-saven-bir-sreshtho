@@ -1,0 +1,72 @@
+[
+    {
+       "key":1,
+       "name":"Mostafa Kamal",
+       "rank":"Sepoy",
+       "image":"https://i.ibb.co/wwnknvY/6d38e246403875-5852c076d6f14-mostofa-kamal.png",
+       "awards":"Bir Sreshtho",
+       "born":"16 December 1947",
+       "country":"Bangladaseh",
+       "freedomFighterAllowance":9000
+    },
+    {
+       "key":2,
+       "name":"Mohiuddin Jahangir",
+       "rank":"Captain",
+       "image":"https://i.ibb.co/PFwNsvF/77ea8546403875-5852c076d6972-mohiuddin-jahangir.png",
+       "awards":"Bir Sreshtho",
+       "born":"March 7, 1949",
+       "country":"Bangladaseh",
+       "freedomFighterAllowance":11000
+    },
+    {
+       "key":3,
+       "name":"Matiur Rahman",
+       "rank":"Flight Lieutenant",
+       "image":"https://i.ibb.co/sRp6HXW/583d2f46403875-5852c076d5d8b-motiur-rahman.png",
+       "awards":"Bir Sreshtho",
+       "born":"29 October 1941",
+       "country":"Bangladaseh",
+       "freedomFighterAllowance":15000
+    },
+    {
+       "key":4,
+       "name":"Munshi Abdur Rouf",
+       "rank":"Lance Nayek",
+       "image":"https://i.ibb.co/Jv4Nj7J/8519ae46403875-5852c076d73e0-munshi-abdur-rouf.png",
+       "awards":"Bir Sreshtho",
+       "born":"8 May 1943",
+       "country":"Bangladaseh",
+       "freedomFighterAllowance":10000
+    },
+    {
+       "key":5,
+       "name":"Hamidur Rahman",
+       "rank":"Sepoy",
+       "image":"https://i.ibb.co/GVnLjDZ/d2264446403875-5852c076d590a-hamidur-rahman.png",
+       "awards":"Bir Sreshtho",
+       "born":"2 February 1953",
+       "country":"Bangladaseh",
+       "freedomFighterAllowance":12000
+    },
+    {
+       "key":6,
+       "name":"Nur Mohammad Sheikh",
+       "rank":"Lance Nayek",
+       "image":"https://i.ibb.co/X3sNPKm/e7f12846403875-5852c076d7b63-nur-mohammad.png",
+       "awards":"Bir Sreshtho",
+       "born":"26 February 1936",
+       "country":"Bangladaseh",
+       "freedomFighterAllowance":14000
+    },
+    {
+       "key":7,
+       "name":"Mohammad Ruhul Amin",
+       "rank":"Freedom Fighter",
+       "image":"https://i.ibb.co/wyPp9Fm/Ruhul-Amin.png",
+       "awards":"Bir Sreshtho",
+       "born":"June, 1935",
+       "country":"Bangladaseh",
+       "freedomFighterAllowance":12000
+    }
+ ]
